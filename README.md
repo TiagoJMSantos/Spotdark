@@ -1,2 +1,3 @@
-# videos-title-generator
-This is a learning project made with MartimMonteiro00 to learn new languages and improve our skills...
+#Spotdark App Launcher
+
+-Projeto feito em C++/QT por dois alunos com o objetivo de expandir o conhecimento em software e tambem expandir o portfolio.

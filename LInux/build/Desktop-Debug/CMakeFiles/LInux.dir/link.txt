@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/LInux.dir/link.d CMakeFiles/LInux.dir/LInux_autogen/mocs_compilation.cpp.o CMakeFiles/LInux.dir/main.cpp.o CMakeFiles/LInux.dir/mainwindow.cpp.o -o LInux  /usr/lib/libQt6Widgets.so.6.11.0 /usr/lib/libQt6Gui.so.6.11.0 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.11.0

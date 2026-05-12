@@ -2,7 +2,6 @@
 #include <filesystem>
 #include <iostream>
 
-int detectOS();
 int detectOS() {
     #if defined(__linux__)
         return -1;

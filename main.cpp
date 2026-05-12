@@ -1,11 +1,7 @@
-#include "mainwindow.h"
-
-#include <QApplication>
+#include "systemDetection.h"
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
-    MainWindow w;
-    w.show();
-    return QCoreApplication::exec();
+    int os = detectOS(); // -1 for Linux/Macos, 0 for Windows, 1 For others(no support available)
+    return 0;
 }

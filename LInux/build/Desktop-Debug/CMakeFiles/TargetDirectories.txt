@@ -1,9 +1,0 @@
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/LInux.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/install.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/install/strip.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/LInux_autogen_timestamp_deps.dir
-/home/martim/Spotdark/LInux/build/Desktop-Debug/CMakeFiles/LInux_autogen.dir

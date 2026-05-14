@@ -1,6 +1,10 @@
-#ifndef appFinder.h
-#define appFinder
+#ifndef APPFINDER_H
+#define APPFINDER_H
 
-void findApps(int os);
+#include <string>
+
+void findApps(int os, std::string name);
+int finderl(const std::string& name);
+void execL(const std::string& name);
 
 #endif /* appFinder */
